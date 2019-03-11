@@ -1,0 +1,5 @@
+Este é o exemplo de um ficheiro novo!!
+
+Estou em alterações ZE!
+
+Estas alterações foi feito pelo branch "NovaFeature"
