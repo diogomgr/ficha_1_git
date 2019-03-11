@@ -1,9 +1,15 @@
 ﻿Este é o exemplo DE UM FICHEIRO DE TEXTO...
 
 
+<<<<<<< HEAD
 Estou a fazer alterações ao ficheiro....
 
 
 
 
 Edited just now by Our lord and savior!!
+=======
+Estou a fazer alterações ao ficheiro
+
+Edited By NovaFeature!
+>>>>>>> NovaFeature
